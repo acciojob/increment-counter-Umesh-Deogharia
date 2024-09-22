@@ -1,6 +1,6 @@
 //your JS code here. If required.
-let btn = document.getElemntbyId('incrementBtn');
-let counter = document.getElementId('counter');
+let btn = document.getElementById('incrementBtn');
+let counter = document.getElementById('counter');
 
 let count = 0;
 counter.innerHTML = count;
